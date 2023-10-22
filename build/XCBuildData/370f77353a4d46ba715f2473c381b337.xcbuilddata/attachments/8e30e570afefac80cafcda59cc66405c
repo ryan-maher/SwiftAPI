@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Pods.build/Release-iphoneos/SwiftSpinner.build/Objects-normal/arm64/SwiftSpinner-master.swiftconstvalues",
+    "dependencies" : "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Pods.build/Release-iphoneos/SwiftSpinner.build/Objects-normal/arm64/SwiftSpinner-master.d",
+    "diagnostics" : "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Pods.build/Release-iphoneos/SwiftSpinner.build/Objects-normal/arm64/SwiftSpinner-master.dia",
+    "emit-module-dependencies" : "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Pods.build/Release-iphoneos/SwiftSpinner.build/Objects-normal/arm64/SwiftSpinner-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Pods.build/Release-iphoneos/SwiftSpinner.build/Objects-normal/arm64/SwiftSpinner-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Pods.build/Release-iphoneos/SwiftSpinner.build/Objects-normal/arm64/SwiftSpinner-master.swiftdeps"
+  },
+  "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/Pods/SwiftSpinner/Sources/SwiftSpinner/SwiftSpinner.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwiftSpinner.build/Objects-normal/arm64/SwiftSpinner.o",
+    "llvm-bc" : "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Pods.build/Release-iphoneos/SwiftSpinner.build/Objects-normal/arm64/SwiftSpinner.bc",
+    "object" : "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Pods.build/Release-iphoneos/SwiftSpinner.build/Objects-normal/arm64/SwiftSpinner.o"
+  }
+}

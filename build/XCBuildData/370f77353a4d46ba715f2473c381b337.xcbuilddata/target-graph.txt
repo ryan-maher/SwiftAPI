@@ -1,0 +1,13 @@
+Target dependency graph (6 targets)
+Target 'Pods-StockApp' in project 'Pods'
+➜ Explicit dependency on target 'Alamofire' in project 'Pods'
+➜ Explicit dependency on target 'Realm' in project 'Pods'
+➜ Explicit dependency on target 'RealmSwift' in project 'Pods'
+➜ Explicit dependency on target 'SwiftSpinner' in project 'Pods'
+➜ Explicit dependency on target 'SwiftyJSON' in project 'Pods'
+Target 'SwiftyJSON' in project 'Pods' (no dependencies)
+Target 'SwiftSpinner' in project 'Pods' (no dependencies)
+Target 'RealmSwift' in project 'Pods'
+➜ Explicit dependency on target 'Realm' in project 'Pods'
+Target 'Realm' in project 'Pods' (no dependencies)
+Target 'Alamofire' in project 'Pods' (no dependencies)

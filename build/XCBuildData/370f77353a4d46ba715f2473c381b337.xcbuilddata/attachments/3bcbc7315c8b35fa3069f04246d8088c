@@ -1,0 +1,15 @@
+{
+  "" : {
+    "const-values" : "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Pods.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master.swiftconstvalues",
+    "dependencies" : "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Pods.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master.d",
+    "diagnostics" : "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Pods.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master.dia",
+    "emit-module-dependencies" : "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Pods.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Pods.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Pods.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON-master.swiftdeps"
+  },
+  "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/Pods/SwiftyJSON/Source/SwiftyJSON/SwiftyJSON.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.o",
+    "llvm-bc" : "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Pods.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.bc",
+    "object" : "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Pods.build/Release-iphoneos/SwiftyJSON.build/Objects-normal/arm64/SwiftyJSON.o"
+  }
+}

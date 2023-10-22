@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Release-iphoneos/SwiftyJSON/SwiftyJSON.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Pods.build/Release-iphoneos/SwiftyJSON.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Release-iphoneos/SwiftyJSON/SwiftyJSON.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "SwiftyJSON-Swift.h",
+      'external-contents': "/Users/ryan/Documents/SmartphoneProgrammingFA23/StockApp/build/Pods.build/Release-iphoneos/SwiftyJSON.build/unextended-interface-header.h",
+    }]
+    }]
+}
